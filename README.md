@@ -1,9 +1,9 @@
-# MATH 6020 Project: April 2026
+## MATH 6020 Project: April 2026
 MATH 6020 Multilinear Models - Final Project
 
-# Breast Cancer Classification
+### Breast Cancer Classification
 
-# Open the Jupyter notebook BreastCancer.ipynb in Google colab.
+### Open the Jupyter notebook BreastCancer.ipynb in Google colab.
 Click the following badge to open the notebook in Google Colab. 
 
 [![Open In Colab](https://github.com/brodyanderson/MATH-6020-Project/blob/main/BreastCancer.ipynb)
